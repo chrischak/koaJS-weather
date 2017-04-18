@@ -1,0 +1,14 @@
+{
+  "name": "koa-weather",
+  "version": "1.0.0",
+  "dependencies": {
+    "koa": "^2.2.0",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.0"
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
