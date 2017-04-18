@@ -6,12 +6,6 @@ cd koaJS-weather
 
 npm install
 
-npm install --save request
-
-npm install --save request-promise
-
-npm i koa
-
-node server.js
+npm start
 
 *api key for openweathermap allow 60 calls per minute
