@@ -9,6 +9,6 @@
   "devDependencies": {
   },
   "scripts": {
-    "start": "node server.js"
+    "start": "firefox http://localhost:3000/ & node server.js"
   }
 }
